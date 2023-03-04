@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="stm32h7_ltdc_dma2d" targetName="stm32h7_ltdc_dma2d.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d288e1bb-680b-4d94-a46d-ac97b3dad1d3" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2MLiDDYpysQFA2E1JWjS0QCzCpb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/stm32_prog/stm32h7/stm32h7_ltdc_dma2d/Drivers/LCD&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\stm32_prog\stm32h7\stm32h7_ltdc_dma2d\Drivers\LCD" />
+      <recent name="E:\stm32_prog\stm32h7\stm32h7_ltdc_dma2d\Drivers" />
+      <recent name="E:\stm32_prog\stm32h7\stm32h7_ltdc_dma2d\Drivers\TOUCH" />
+      <recent name="E:\stm32_prog\stm32h7\stm32h7_ltdc_dma2d\Drivers\Driver\TOUCH" />
+      <recent name="E:\stm32_prog\stm32h7\stm32h7_ltdc_dma2d\Core\Src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\stm32_prog\stm32h7\stm32h7_ltdc_dma2d\Drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.OCD stm32h7_ltdc_dma2d">
+    <configuration name="stm32h7_ltdc_dma2d.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm32h7_ltdc_dma2d" TARGET_NAME="stm32h7_ltdc_dma2d.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="stm32h7_ltdc_dma2d" RUN_TARGET_NAME="stm32h7_ltdc_dma2d.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OCD stm32h7_ltdc_dma2d" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm32h7_ltdc_dma2d" TARGET_NAME="stm32h7_ltdc_dma2d.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="stm32h7_ltdc_dma2d" RUN_TARGET_NAME="stm32h7_ltdc_dma2d.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="E:\stm32_prog\stm32h7\stm32h7_ltdc_dma2d\stm32h7x3i_evalstlink_v2.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.stm32h7_ltdc_dma2d.elf" />
+      <item itemvalue="OpenOCD 下载并运行.OCD stm32h7_ltdc_dma2d" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d288e1bb-680b-4d94-a46d-ac97b3dad1d3" name="变更" comment="" />
+      <created>1677553141752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677553141752</updated>
+      <workItem from="1677553154974" duration="4520000" />
+      <workItem from="1677584983689" duration="8808000" />
+      <workItem from="1677635377085" duration="6445000" />
+      <workItem from="1677652881060" duration="41000" />
+      <workItem from="1677656660044" duration="4097000" />
+      <workItem from="1677675887165" duration="1780000" />
+      <workItem from="1677678104229" duration="7759000" />
+      <workItem from="1677834283301" duration="15927000" />
+      <workItem from="1677856417470" duration="1791000" />
+      <workItem from="1677896298337" duration="6195000" />
+      <workItem from="1677914809951" duration="4835000" />
+      <workItem from="1677929419685" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="com.jetbrains.cidr.embedded.openocd.conf.type">
+        <watch expression="temp" />
+        <watch expression="*(__IO uint32_t*)(SDRAM_BANK_ADDR+i)" />
+        <watch expression="pLayerCfg.Backcolor.Blue" />
+        <watch expression="tp_dev.scan(0)" />
+        <watch expression="DMA2D-&gt;NLR" />
+        <watch expression="(pey-psy+1)|((pex-psx+1)&lt;&lt;16)" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

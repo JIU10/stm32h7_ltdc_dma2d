@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/Core/Src/fmc.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Src/main.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Src/usart.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Drivers/24CXX" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Drivers/24CXX/24cxx.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Drivers/24CXX/24cxx.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Drivers/LCD" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Drivers/LCD/font.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Drivers/TOUCH/ctiic.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Drivers/TOUCH/ctiic.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Drivers/TOUCH/ft5206.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Drivers/TOUCH/ft5206.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Drivers/TOUCH/gt9147.c" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
